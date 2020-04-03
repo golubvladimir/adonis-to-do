@@ -1,0 +1,5 @@
+{
+  "refresh_token_not_found": "Refresh Token not found",
+  "refresh_token_outdated": "Refresh Token outdated",
+  "token_outdated": "Token outdated"
+}

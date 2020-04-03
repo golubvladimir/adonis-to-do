@@ -1,0 +1,6 @@
+{
+  "required_field": "Required field",
+  "email_format": "Does not match email format",
+  "password_length": "Minimum password length 8",
+  "email_registered": "Email is already registered"
+}

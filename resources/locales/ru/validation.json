@@ -1,0 +1,6 @@
+{
+  "required_field": "Обязательное поле",
+  "email_format": "Не соответствует формату email",
+  "password_length": "Минимальная длина пароля 8",
+  "email_registered": "Email уже зарегистрирован"
+}
